@@ -1,0 +1,6 @@
+{
+  "appId": "com.aura.music",
+  "appName": "Aura Music",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
